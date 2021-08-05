@@ -17,8 +17,9 @@
 > > ### Organization
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_organization.pdf <br>
 > > ### Storyboards
-> > 
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_storyboards.pdf <br>
 > > ### Methodology
+> > 
 > > ### Prototype
 ## The Study
 > > **Two interview sessions were held; participants worked through 5 tasks, answered open and closed-ended questions, and commented on blank pages.**<br>
