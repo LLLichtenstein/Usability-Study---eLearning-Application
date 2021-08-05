@@ -3,7 +3,7 @@
 ## Research
 > > **Anatomy and Physiology resources that exhibit eLearning were analyzed and evaluated heuristically to inform the design of my project.**<br>
 > > ### Project Proposal
-> > 
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_project_proposal.pdf <br>
 > > ### Competitive Analysis
 > > ### Heuristic Evaluation
 ## Design
