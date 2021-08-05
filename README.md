@@ -1,8 +1,9 @@
 # Usability-Study for an Animal Anatomy &amp; Physiology eLearning Application
-> > For this usability study I created a Veterinary Anatomy and Physiology eLearning application targeted towards biological science undergraduates. As part of the project, I wrote supporting test documentation such as personas and scenarios, competitive analysis, storyboards, prototypes, and test protocols. I then conducted usability tests with four undergraduate students at a local university and statistically analyzed the test results. This project was part of my Master's degree program in Professional and Technical Communication at New Jersey Institute of Technology. My effort on this project outperformed the course requirements and led to a Merit Award.
+> > For this usability study I created a Veterinary Anatomy and Physiology eLearning application targeted towards biological science undergraduates. As part of the project, I wrote supporting test documentation such as personas and scenarios, competitive analyses, storyboards, prototypes, and test protocols. I then conducted usability tests with four undergraduate students at a local university and statistically analyzed the test results. <br><br>This project was part of my Master's degree program in Professional and Technical Communication at New Jersey Institute of Technology. My effort on this project outperformed the course requirements and led to a Merit Award.
 ## Research
 > > **Anatomy and Physiology resources that exhibit eLearning were analyzed and evaluated heuristically to inform the design of my project.**<br>
 > > ### Project Proposal
+> > 
 > > ### Competitive Analysis
 > > ### Heuristic Evaluation
 ## Design
