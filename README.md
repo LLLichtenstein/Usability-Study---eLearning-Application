@@ -11,8 +11,9 @@
 ## Design
 > > **Storyboards of general structure and navigation were followed by development of the wireframe prototype in Adobe Illustrator.**<br>
 > > ### Persona
-> > 
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_persona.pdf
 > > ### Scenario
+> > 
 > > ### Organization
 > > ### Storyboards
 > > ### Methodology
