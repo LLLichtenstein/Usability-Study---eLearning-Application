@@ -5,6 +5,7 @@
 > > ### Project Proposal
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_project_proposal.pdf <br>
 > > ### Competitive Analysis
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_competive_analysis.pdf <br>
 > > ### Heuristic Evaluation
 ## Design
 > > **Storyboards of general structure and navigation were followed by development of the wireframe prototype in Adobe Illustrator.**<br>
