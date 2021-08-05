@@ -15,8 +15,9 @@
 > > ### Scenario
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_scenario.pdf <br>
 > > ### Organization
-> > 
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_organization.pdf <br>
 > > ### Storyboards
+> > 
 > > ### Methodology
 > > ### Prototype
 ## The Study
