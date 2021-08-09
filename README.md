@@ -35,6 +35,7 @@
 > > ### Blank Pages
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_blank_paper_responses.pdf <br>
 > > ### Data
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_data_analysis.pdf <br>
 > > ### Recommendations
 > > ### Conclusion
 ## Presentation
