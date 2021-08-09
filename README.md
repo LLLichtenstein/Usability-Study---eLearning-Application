@@ -47,3 +47,4 @@
 > > ### NJIT Showcase Poster
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_showcase_poster_large.jpg <br>
 > > ### NJIT GSA Poster
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_gsa_poster_large.jpg <br>
