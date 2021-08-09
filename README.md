@@ -29,6 +29,7 @@
 > > ### Interview Booklets
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_interview_booklet.pdf <br>
 > > ### Interview Sessions
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_interview_sessions.pdf <br>
 ## Analysis
 > > Blank page comments and results: navigated easily, terms and icons familiar, difficulty finding tabs. Conclusion: further design research needed.<br>
 > > ### Blank Pages
