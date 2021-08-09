@@ -37,6 +37,7 @@
 > > ### Data
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_data_analysis.pdf <br>
 > > ### Recommendations
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_recommendations.pdf <br>
 > > ### Conclusion
 ## Presentation
 > > Presented study at James Madison University Symposium. Posters designed and displayed at NJIT research events.<br>
