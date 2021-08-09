@@ -45,4 +45,5 @@
 > > ### JMU Symposium
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_symposium_presentation.pdf <br>
 > > ### NJIT Showcase Poster
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_showcase_poster_large.jpg <br>
 > > ### NJIT GSA Poster
