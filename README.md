@@ -39,6 +39,7 @@
 > > ### Recommendations
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_recommendations.pdf <br>
 > > ### Conclusion
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_conclusion.pdf <br>
 ## Presentation
 > > Presented study at James Madison University Symposium. Posters designed and displayed at NJIT research events.<br>
 > > ### JMU Symposium
