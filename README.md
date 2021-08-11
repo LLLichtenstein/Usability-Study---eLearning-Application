@@ -15,12 +15,14 @@
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_gsa_poster_large.jpg <br>
 ## THE DOCUMENTATION
 ### Research
-> > Anatomy and Physiology resources that exhibit eLearning were analyzed and evaluated heuristically to inform the design of my project.<br>
 > > ### Project Proposal
+> > I mapped out the scope of my project in the Project Proposal including the product, client, problem statement, and user-activity methods. In addition, I specify that I will conduct a competitive analysis and heuristic evaluation of websites that meet my criteria of anatomy and physiology eLearning. <br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_project_proposal.pdf <br>
 > > ### Competitive Analysis
+> > For my competitive analysis I searched the internet for websites that exhibit eLearning for anatomy and physiology, both animal and human. Candidate websites were evaluated for specific criteria and narrowed down to twelve websites which were then evaluated heuristically. <br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_competive_analysis.pdf <br>
 > > ### Heuristic Evaluation
+> > Using Jakob Nielsens’s 10 Heuristics, I performed a heuristic evaluation on the twelve candidate websites selected for the Competitive Analysis.  
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_heuristic.pdf <br>
 ### Design
 > > Storyboards of general structure and navigation were followed by development of the wireframe prototype in Adobe Illustrator.<br>
