@@ -3,9 +3,10 @@
 > > I presented my study at a graduate student symposium at James Madison University, Harrisonburg, Virginia and at two New Jersey Institute of Technology graduate student events.<br><br>
 > > This project was part of my Master's degree program in Professional and Technical Communication at New Jersey Institute of Technology. My effort on this project outperformed the course requirements and led to a Merit Award.
 ## Presentation and Posters
-> > I created a MS Powerpoint presentation outlining my study and presented it at a James Madison University Graduate Student Symposium. Posters designed and displayed at NJIT research events.<br>
+> > This is the MS Powerpoint presentation I created and presented at James Madison University Graduate Student Symposium. It provides an overview of my study.<br>
 > > ### JMU Symposium
-> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_symposium_presentation.pdf <br>
+> > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_symposium_presentation.pdf <br><br>
+> > These are the posters I designed in Adobe Illustrator and displayed at two NJIT research events.<br>
 > > ### NJIT Showcase Poster
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_showcase_poster_large.jpg <br>
 > > ### NJIT GSA Poster
