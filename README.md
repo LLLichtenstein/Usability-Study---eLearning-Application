@@ -16,7 +16,7 @@
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_gsa_poster_large.jpg <br>
 ## THE DOCUMENTATION
 ### Research
-> > `Analyzed and heuristically evaluated Anatomy and Physiology resources that exhibit eLearning to inform the design of my project.`<br>
+> > `Analyzed and heuristically evaluated anatomy and physiology resources that exhibit eLearning to inform my project design.`<br>
 > > ### Project Proposal
 > > I mapped out the scope of my project in the Project Proposal including the product, client, problem statement, and user-activity methods. In addition, I specified that I will conduct a competitive analysis and heuristic evaluation of websites that meet my criteria of anatomy and physiology eLearning. <br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_project_proposal.pdf <br>
@@ -27,7 +27,7 @@
 > > Using Jakob Nielsens’s 10 Heuristics, I performed a heuristic evaluation on the twelve candidate websites selected for the Competitive Analysis.  
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_heuristic.pdf <br>
 ### Design
-> > `Storyboarded the general structure and navigation of my application; developed the wireframe prototype in Adobe Illustrator.`<br>
+> > `Storyboarded the general structure and navigation of my application; developed a wireframe prototype in Adobe Illustrator.`<br>
 > > ### Persona
 > > The persona I created is a pre-veterinary student, Kimberley, who aspires to become a veterinarian. She uses the internet frequently to learn more about the veterinary sciences to augment her knowledge for both her studies and part-time job in a veterinary practice.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_persona.pdf <br>
@@ -49,11 +49,13 @@
 ### The Study
 > > `Two interview sessions were held where participants worked through 5 tasks, answered open and closed-ended questions, and commented on blank pages.`<br>
 > > ### Recruiting and Screening
-> > I describe the qualifications participants must satisfy in order to be recruited for the study and how they will be screened.
+> > I described the qualifications participants must satisfy in order to be recruited for the study and how they will be screened.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_recruit_screen.pdf
 > > ### Interview Booklets
+> > The interview booklets used for the study include a consent form, pre-evaluation questions, and five tasks with task evaluation questions as well as post-task evaluation quiestions Also included are the screen prints used for the study.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_interview_booklet.pdf <br>
 > > ### Interview Sessions
+> > I described major facets of the interview procedure including participant selection, graphic design expert consultation, and paper prototype materials.<br>  
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_interview_sessions.pdf <br>
 ### Analysis
 > > `Blank page comments and results: navigated easily, terms and icons familiar, difficulty finding tabs. Conclusion: further design research needed.`<br>
