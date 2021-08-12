@@ -52,19 +52,23 @@
 > > I described the qualifications participants must satisfy in order to be recruited for the study and how they will be screened.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_recruit_screen.pdf
 > > ### Interview Booklets
-> > The interview booklets used for the study include a consent form, pre-evaluation questions, and five tasks with task evaluation questions as well as post-task evaluation quiestions Also included are the screen prints used for the study.<br>
+> > The interview booklets used for the study include a consent form, pre-evaluation questions, and five tasks with task evaluation questions as well as post-task evaluation questions. Also included are the screen prints used for the study.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_interview_booklet.pdf <br>
 > > ### Interview Sessions
 > > I described major facets of the interview procedure including participant selection, graphic design expert consultation, and paper prototype materials.<br>  
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_interview_sessions.pdf <br>
 ### Analysis
 > > `Blank page comments and results: navigated easily, terms and icons familiar, difficulty finding tabs. Conclusion: further design research needed.`<br>
-> > ### Blank Pages
+> > ### Blank Pages Responses
+> > Includes participant responses for Tasks 3 and 4.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_blank_paper_responses.pdf <br>
-> > ### Data
+> > ### Data Analysis
+> > Details participant task completion data according to a five-step Likert scale, task evaluation, and data analysis.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_data_analysis.pdf <br>
 > > ### Recommendations
+> > Screen layout modifications are suggested based upon the Data Analysis.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_recommendations.pdf <br>
 > > ### Conclusion
+> > Provides a general overview of the study and concluding thoughts<br> 
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_conclusion.pdf <br>
 
