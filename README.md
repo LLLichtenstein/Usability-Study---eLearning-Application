@@ -27,12 +27,16 @@
 ### Design
 > > Storyboards of general structure and navigation were followed by development of the wireframe prototype in Adobe Illustrator.<br>
 > > ### Persona
+> > The persona I created for this eLearning application is a pre-veterinary student, Kimberley, who aspires to become a veterinarian. She uses the internet frequently to learn more about the veterinary sciences to augment her knowledge for both her studies and part-time job in a veterinary practice.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_persona.pdf <br>
 > > ### Scenario
+> > In this scenario Kimberley is preparing for an exam in her animal physiology class and chooses my eLearning application to learn more about the system she will be tested on.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_scenario.pdf <br>
 > > ### Organization
+> > In order to design the organization and navigation of my website I consulted my Heuristic Evaluation website candidates as well as animal anatomy and physiology books.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_organization.pdf <br>
 > > ### Storyboards
+> > I analyzed the layouts of Heuristic Evaluation candidate websites and incorporated the best ideas, in my opinion, into my design.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_storyboards.pdf <br>
 > > ### Methodology
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_test_methodology.pdf <br>
