@@ -3,7 +3,7 @@
 > > I presented my study at a graduate student symposium at James Madison University, Harrisonburg, Virginia and at two New Jersey Institute of Technology graduate student events.<br><br>
 > > This project was part of my Master's degree program in Professional and Technical Communication at New Jersey Institute of Technology. My effort on this project outperformed the course requirements and led to a Merit Award.
 ## OVERVIEW 
-`Presented my study at a James Madison University Symposium for graduate students. Designed two posters which were displayed at NJIT research events.`
+Presented my study at a James Madison University Symposium for graduate students. Designed two posters which were displayed at NJIT research events.
 ### Presentation  
 > > This is the MS Powerpoint presentation I created and presented at James Madison University Graduate Student Symposium. It provides an overview of my study.<br>
 > > ### JMU Symposium
@@ -16,7 +16,7 @@
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_gsa_poster_large.jpg <br>
 ## THE DOCUMENTATION
 ### Research
-> > `Analyzed and heuristically evaluated anatomy and physiology resources that exhibit eLearning to inform my project design.`<br>
+> > Analyzed and heuristically evaluated anatomy and physiology resources that exhibit eLearning to inform my project design.<br>
 > > ### Project Proposal
 > > I mapped out the scope of my project in the Project Proposal including the product, client, problem statement, and user-activity methods. In addition, I specified that I will conduct a competitive analysis and heuristic evaluation of websites that meet my criteria of anatomy and physiology eLearning. <br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_project_proposal.pdf <br>
@@ -27,7 +27,7 @@
 > > Using Jakob Nielsens’s 10 Heuristics, I performed a heuristic evaluation on the twelve candidate websites selected for the Competitive Analysis.  
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_heuristic.pdf <br>
 ### Design
-> > `Storyboarded the general structure and navigation of my application; developed a wireframe prototype in Adobe Illustrator.`<br>
+> > Storyboarded the general structure and navigation of my application; developed a wireframe prototype in Adobe Illustrator.<br>
 > > ### Persona
 > > The persona I created is a pre-veterinary student, Kimberley, who aspires to become a veterinarian. She uses the internet frequently to learn more about the veterinary sciences to augment her knowledge for both her studies and part-time job in a veterinary practice.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_persona.pdf <br>
@@ -47,7 +47,7 @@
 > > I created sample screen shots in Adobe Illustrator.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_prototype_dev.pdf
 ### The Study
-> > `Two interview sessions were held where participants worked through 5 tasks, answered open and closed-ended questions, and commented on blank pages.`<br>
+> > Two interview sessions were held where participants worked through 5 tasks, answered open and closed-ended questions, and commented on blank pages.<br>
 > > ### Recruiting and Screening
 > > I described the qualifications participants must satisfy in order to be recruited for the study and how they will be screened.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_recruit_screen.pdf
@@ -58,7 +58,7 @@
 > > I described major facets of the interview procedure including participant selection, graphic design expert consultation, and paper prototype materials.<br>  
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_interview_sessions.pdf <br>
 ### Analysis
-> > `Blank page comments and results: navigated easily, terms and icons familiar, difficulty finding tabs. Conclusion: further design research needed.`<br>
+> > Blank page comments and results: navigated easily, terms and icons familiar, difficulty finding tabs. Conclusion: further design research needed.<br>
 > > ### Blank Pages Responses
 > > Includes participant responses for Tasks 3 and 4.<br>
 > > https://github.com/LLLichtenstein/Usability-Study-for-an-eLearning-Application/blob/main/usability_blank_paper_responses.pdf <br>
